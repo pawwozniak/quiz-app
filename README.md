@@ -1,6 +1,6 @@
 # Quiz App
 
-Quiz app made for Nobl9 Frontend Challenge with Vue.js
+Quiz app made with Vue.js
 
 
 ## Project Setup
