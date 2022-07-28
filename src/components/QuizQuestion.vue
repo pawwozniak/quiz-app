@@ -10,7 +10,6 @@ import type { ApiData } from "@/stores/types";
 
 onMounted(() => {
   const parent = document.querySelector(".grid-answers");
-  console.log(parent);
   for (let i = parent.children.length; i >= 0; i--) {
     parent.appendChild(parent.children[(Math.random() * i) | 0]);
   }
